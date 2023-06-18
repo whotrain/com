@@ -19,7 +19,7 @@
             "https://twitter.com/camenduru"
         ],
         "tokens": [
-            "tokens"
+            "tag1", "tag2", "tag3"
         ],
         "type": [
             "type"
