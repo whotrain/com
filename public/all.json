@@ -1,75 +1,31 @@
 [
     {
-        "creator_username": "test1",
+        "creator_username": "creator_username",
         "images": [
             "https://media.discordapp.net/attachments/1080130677518893068/1084723305048711168/44-euler-a-kneeling_cat_knight_portrait_finely_detailed_armor_intricate_design_silver_silk_cinematic_lighting_4k.png?width=636&height=636",
             "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/2.png",
             "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/3.png",
             "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/4.png"
         ],
-        "info": "https://aica.pages.dev/creators/22h/vintedois_diffusion/0_1_0/info.txt",
+        "info": "info.txt",
         "links": [
-            "https://huggingface.co/ckpt/vintedois-diffusion-v0-1/resolve/main/vintedois_0_1.ckpt"
+            "links"
         ],
-        "model_name": "vintedois_diffusion",
-        "model_version": "0_1_0",
+        "model_name": "model_name",
+        "model_version": "model_version",
         "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/vintedois_diffusion_0_1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/vintedois_diffusion_0_1_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/vintedois_diffusion_0_1_webui_colab.ipynb"
+            "online1",
+            "online2",
+            "online3"
         ],
         "tokens": [
-            "estilovintedois"
+            "tokens"
         ],
         "type": [
-            "dreambooth"
+            "type"
         ],
-        "vae": []
-    },
-    {
-        "creator_username": "test2",
-        "images": [
-            "https://media.discordapp.net/attachments/1080131632238973010/1080169756256112740/vCn02tM.jpg?width=565&height=636",
-            "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/2.png",
-            "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/3.png",
-            "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/4.png"
-        ],
-        "info": "https://aica.pages.dev/creators/852wa/8528_diffusion/1_0_0/info.txt",
-        "links": [
-            "https://huggingface.co/ckpt/8528-diffusion/resolve/main/8528d-final.ckpt"
-        ],
-        "model_name": "8528_diffusion",
-        "model_version": "1_0_0",
-        "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/8528_diffusion_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/8528_diffusion_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/8528_diffusion_webui_colab.ipynb"
-        ],
-        "tokens": [],
-        "type": [
-            "fine_tune"
-        ],
-        "vae": []
-    },
-    {
-        "creator_username": "test3",
-        "images": [
-            "https://media.discordapp.net/attachments/1084977996877799445/1085036981832138812/00318-1644094317.jpg",
-            "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/2.png",
-            "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/3.png",
-            "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/4.png"
-        ],
-        "info": "https://aica.pages.dev/creators/agra_fl/refslave/2_0_0/info.txt",
-        "links": [],
-        "model_name": "refslave",
-        "model_version": "2_0_0",
-        "online": [
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/lite/refslave_v2_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/stable/refslave_v2_webui_colab.ipynb",
-            "https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/nightly/refslave_v2_webui_colab.ipynb"
-        ],
-        "tokens": [],
-        "type": [],
-        "vae": []
+        "vae": [
+            "vae"
+        ]
     }
 ]
