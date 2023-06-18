@@ -28,7 +28,7 @@ const text = reactive({
 <template>
   <div class="creator-archive">
     <img src="/logo.png" width="42" height="42" />
-    <span style="font-family: BigJohn; font-size: 50px; color: #E6E6E6;"> Who</span><span style="font-size: 50px; color: hotpink;">Train </span>
+    <span style="font-size: 50px; color: #E6E6E6;"> Who</span><span style="font-size: 50px; color: hotpink;">Train </span>
   <br>
     <br>
   </div>
