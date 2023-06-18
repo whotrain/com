@@ -1,6 +1,6 @@
 [
     {
-        "creator_username": "creator_username",
+        "creator_username": "camenduru",
         "images": [
             "https://pbs.twimg.com/profile_images/1467581285258436625/AVUn1adN_400x400.jpg",
             "2.png",
@@ -12,7 +12,7 @@
             "links"
         ],
         "model_name": "model_name",
-        "model_version": "model_version",
+        "model_version": "",
         "online": [
             "https://discord.gg/AjVtDvqu9v",
             "https://patreon.com/camenduru",

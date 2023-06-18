@@ -42,12 +42,12 @@ const text = reactive({
         <a :href="`${item.online[0]}`"><img src="/discord.svg" /></a>&nbsp;
         <a :href="`${item.online[1]}`"><img src="/patreon.svg" /></a>&nbsp;
         <a :href="`${item.online[2]}`"><img src="/twitter.svg" /></a>
-        <p>Creator: {{ item.creator_username }}</p>
+        <!-- <p>Creator: {{ item.creator_username }}</p>
         <p>Type: {{ item.type[0] }}</p>
         <span v-if="item.tokens[0]">Tokens: </span>
         <span v-for="(token, token_index) in item.tokens" :key="token_index">
           {{ token }}&nbsp;
-        </span>
+        </span> -->
       </div>
     </template>
   </masonry-wall>
