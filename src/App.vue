@@ -39,9 +39,9 @@ const text = reactive({
         <span style="float: right; font-size: 12px;">v{{ item.model_version }}</span>
         <img :src="`${item.images[0]}`" width="288" />
         <br />
-        <a :href="`${item.online[0]}`"><img src="/lite.svg" /></a>&nbsp;
-        <a :href="`${item.online[1]}`"><img src="/stable.svg" /></a>&nbsp;
-        <a :href="`${item.online[2]}`"><img src="/nightly.svg" /></a>
+        <a :href="`${item.online[0]}`"><img src="/twitter.svg" /></a>&nbsp;
+        <a :href="`${item.online[1]}`"><img src="/discord.svg" /></a>&nbsp;
+        <a :href="`${item.online[2]}`"><img src="/patreon.svg" /></a>
         <p>Creator: {{ item.creator_username }}</p>
         <p>Type: {{ item.type[0] }}</p>
         <span v-if="item.tokens[0]">Tokens: </span>
