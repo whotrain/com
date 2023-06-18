@@ -2,7 +2,7 @@
 import { computed, reactive, ref } from "vue";
 import { useFetch } from "@vueuse/core";
 
-document.title = "WhoTrain";
+document.title = "WhoTrain - Find your model trainer.";
 const url = ref("/all.json");
 const refetch = ref(false);
 const { data, error, statusCode, isFetching, isFinished, canAbort } = useFetch(
