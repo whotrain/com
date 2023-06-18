@@ -36,7 +36,7 @@ const text = reactive({
     <template #default="{ item, index }">
       <div class="grid-item">
         <span style="font-size: 16px;">{{ item.model_name }}</span>
-        <span style="float: right; font-size: 12px;">v{{ item.model_version }}</span>
+        <span style="float: right; font-size: 12px;"><img src="/green.svg" />{{ item.model_version }}</span>
         <img :src="`${item.images[0]}`" width="288" />
         <br />
         <a :href="`${item.online[0]}`"><img src="/discord.svg" /></a>&nbsp;

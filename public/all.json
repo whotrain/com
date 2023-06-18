@@ -11,8 +11,8 @@
         "links": [
             "links"
         ],
-        "model_name": "model_name",
-        "model_version": "",
+        "model_name": "camenduru",
+        "model_version": "online",
         "online": [
             "https://discord.gg/AjVtDvqu9v",
             "https://patreon.com/camenduru",
