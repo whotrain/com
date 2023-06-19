@@ -29,7 +29,8 @@ const text = reactive({
   <div class="creator-archive">
     <img src="/logo.png" width="45" height="45" />
     <span style="font-family: 'Bigshot One'; font-size: 45px; color: #E6E6E6;"> Who</span><span style="font-family: 'Bigshot One'; font-size: 45px; color: #e73154;">Train </span>
-    <span style="font-size: 15px; color: #E6E6E6;">Find your model trainer.</span>
+    <span style="font-size: 15px; color: #E6E6E6;">Find your model trainer.</span> <br />
+    <span style="font-size: 25px; color: #E6E6E6;">🚧 🚦 WIP 🚦 Prototype</span>
   <br>
     <br>
   </div>
